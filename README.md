@@ -2,11 +2,12 @@
 ------------------------------------------------------
 
 Hans Verdolaga  
-Exercises given from The Cloud Bootcamp team
+Exercises given as part of the Cloud Bootcamp's MultiCloud Intensive Training
 
 ------------------------------------------------------
 
 ## Table of Contents
+- [Description](#description)
 - [Warm Up Night 1](#warm-up-night-1)
 - [Warm Up Night 2](#warm-up-night-2)
 - [Warm Up Night 3](#warm-up-night-3)
@@ -15,6 +16,13 @@ Exercises given from The Cloud Bootcamp team
 - [Mission 1](#mission-1)
 - [Mission 2](#mission-2)
 - [Mission 3](#mission-3)
+
+------------------------------------------------------
+
+## Description
+This repository contains the practice files for the Cloud Bootcamp Warm Up Nights and Intensive Training Workshop. The workshop was hosted by Jean Rodrigues on the following dates:
+- Warm Up Nights: Pre-recorded videos
+- Intensive Training Workshop: 2023-10-23 to 2023-10-28
 
 ------------------------------------------------------
 
